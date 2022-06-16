@@ -1,3 +1,20 @@
+# But Muh Notes
+
+This is an initial implementation of a browser-based, note-taking application. It is currently utilizing IndexedDB, which is a browser-based database, as its persistent store.
+
+## Setup
+
+1. Clone the repo
+```shell
+git clone something
+```
+
+2. Install the dependencies
+```shell
+cd notes
+npm install
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
